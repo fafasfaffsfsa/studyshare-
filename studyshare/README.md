@@ -25,3 +25,8 @@
 ```bash
 pip install flask
 python app.py
+
+## Ссылки
+- Сайт: https://zasimov.pythonanywhere.com
+- GitHub: https://github.com/fafasfaffsfsa/studyshare-
+- Telegram-канал: https://t.me/kkkoookkkiii
